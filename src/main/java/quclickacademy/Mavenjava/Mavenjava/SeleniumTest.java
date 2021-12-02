@@ -7,12 +7,15 @@ public class SeleniumTest {
 	public void BrowserAutomation()
 	{
 		System.out.println("BrowserAutomation");	
+		System.out.println("BrowserAutomation33");	
+		System.out.println("BrowserAutomation44");	
+
 	
 	}
 	@Test
 	public void ElementsUI()
 	{
-		System.out.println("ElementsUI");	
-
+		System.out.println("ElementsUI");
+		
 	}
 }
