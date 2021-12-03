@@ -7,11 +7,12 @@ public class RestAPITest {
 	@Test
 	public void PostJira()
 	{
-		
+		System.out.println("ndkhfalak");
 	}
 	@Test
 	public void DeleteTwitter()
 	{
-		
+		System.out.println("ndkhfalfsdfsak");
+
 	}
 }
